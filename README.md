@@ -2,11 +2,11 @@
 
   `(https://www.youtube.com/watch?v=NiHFqziyvyk)`
 
- - url: 'https://aldrin7g.github.io',
- - baseUrl: '/STM32_Bootcamp/',
- - trailingSlash: false,
- - organizationName: 'aldrin7g', // Usually your GitHub org/user name.
- - projectName: 'STM32_Bootcamp', // Usually your repo name.
+url: 'https://aldrin7g.github.io',
+baseUrl: '/STM32_Bootcamp/',
+trailingSlash: false,
+organizationName: 'aldrin7g', // Usually your GitHub org/user name.
+projectName: 'STM32_Bootcamp', // Usually your repo name.
 
 ---
 
@@ -22,24 +22,27 @@ yarn --version
 `(https://www.youtube.com/watch?v=X40b9x9BFGo)`
 
 **// paste the below commands in gitbash in PC**
+
 `Creates a SSH Key for the PC`
+
 ```bash
 ssh-keygen -t ed25519 -C "aldring@karunya.edu.in"
 ```
 
-press <Enter>
+press `Enter`
 
-press <Enter>
+press `Enter`
 
 `Copies the SSH Key in the Clipboard`
 ```bash
   clip < ~/.ssh/id_ed25519.pub
 ```
-- **now paste the key in ssh and gsh keys in GitHub under SSH Keys in settings** 
-- **give any title**
+- **Now paste the key in SSH keys in GitHub under SSH Keys in Settings** 
+- **Give any Title**
 
 
 ## Commit Changes to GitHub, paste codes in Gitbash
+
 ```bash
 git init
 git add .
