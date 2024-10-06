@@ -1,3 +1,7 @@
+# STEPS TO DEPLOY A DOCUSAURUS IN GITHUB PAGES
+
+---
+
 ## Changes in docusaurus.config.js
 
   `(https://www.youtube.com/watch?v=NiHFqziyvyk)`
