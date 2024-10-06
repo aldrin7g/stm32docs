@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aldrin7g.github.io/stm32docs/blog</id>
     <title>STM32 Blog</title>
-    <updated>2024-10-06T13:57:10.667Z</updated>
+    <updated>2024-10-06T14:50:34.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aldrin7g.github.io/stm32docs/blog"/>
     <subtitle>STM32 Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Credits]]></title>
         <id>https://aldrin7g.github.io/stm32docs/blog/credits</id>
         <link href="https://aldrin7g.github.io/stm32docs/blog/credits"/>
-        <updated>2024-10-06T13:57:10.667Z</updated>
+        <updated>2024-10-06T14:50:34.000Z</updated>
         <author>
             <name>Aldrin G</name>
             <uri>https://github.com/aldrin7g</uri>
@@ -39,7 +39,7 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://aldrin7g.github.io/stm32docs/blog/welcome</id>
         <link href="https://aldrin7g.github.io/stm32docs/blog/welcome"/>
-        <updated>2024-10-06T13:57:10.667Z</updated>
+        <updated>2024-10-06T14:50:34.000Z</updated>
         <summary type="html"><![CDATA[Glory to God!]]></summary>
         <content type="html"><![CDATA[<p><strong>Glory to God!</strong></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="about-me">About Me<a href="https://aldrin7g.github.io/stm32docs/blog/welcome#about-me" class="hash-link" aria-label="Direct link to About Me" title="Direct link to About Me">​</a></h3>
