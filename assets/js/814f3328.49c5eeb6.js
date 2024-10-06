@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstm_32_documentaion=self.webpackChunkstm_32_documentaion||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Credits","permalink":"/stm32docs/blog/authors","unlisted":false,"date":"2024-10-06T14:50:34.000Z"}]}')}}]);
