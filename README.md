@@ -3,9 +3,13 @@
   `(https://www.youtube.com/watch?v=NiHFqziyvyk)`
 
 url: 'https://aldrin7g.github.io',
+
 baseUrl: '/STM32_Bootcamp/',
+
 trailingSlash: false,
+
 organizationName: 'aldrin7g', // Usually your GitHub org/user name.
+
 projectName: 'STM32_Bootcamp', // Usually your repo name.
 
 ---
@@ -29,9 +33,9 @@ yarn --version
 ssh-keygen -t ed25519 -C "aldring@karunya.edu.in"
 ```
 
-press `Enter`
+- press `Enter`
 
-press `Enter`
+- press `Enter`
 
 `Copies the SSH Key in the Clipboard`
 ```bash
@@ -40,6 +44,7 @@ press `Enter`
 - **Now paste the key in SSH keys in GitHub under SSH Keys in Settings** 
 - **Give any Title**
 
+---
 
 ## Commit Changes to GitHub, paste codes in Gitbash
 
@@ -49,6 +54,8 @@ git add .
 git commit -m "Initial commit"
 ```
 
+---
+
 ## Again run the below commands in gitbash in PC
 ```bash
 git config --global user.name "aldrin7g"
@@ -57,3 +64,5 @@ git config --global user.email "aldring@karunya.edu.in"
 ```bash
 GIT_USER=aldrin7g USE_SSH=true yarn deploy
 ```
+
+---
